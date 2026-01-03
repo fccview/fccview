@@ -47,6 +47,11 @@
         <td width="200"><a href="https://github.com/fccview/scatola-magica"><strong>scatola-magica</strong></a></td>
         <td>Self-hosted file management that feels like magic. It really does, try it!</td>
       </tr>
+      <tr>
+        <td><img src="https://animetaverse.club/images/logo.jpeg" width="40"></td>
+        <td width="200"><a href="https://github.com/riofriz/es-theme-animetaverse"><strong>es-theme-animetaverse</strong></a></td>
+        <td>I built an arcade machine, I put batocera on it, I HAD to make my own theme and share it with the community!</td>
+      </tr>
     </tbody>
   </table>
 
