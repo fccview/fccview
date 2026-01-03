@@ -55,8 +55,10 @@
     </tbody>
   </table>
 
-  <h3>AI will beat me at these within 5 years.</h3>
-  
+
+  <div align="right">
+    <img src="/av-907119.gif">
+  </div>
   <p align="center">
     <a width="30" height="30" href="https://www.typescriptlang.org/" target="_blank"><img src="https://skills.syvixor.com/api/icons?i=typescript" alt="TypeScript"/></a>
     <a width="30" height="30" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skills.syvixor.com/api/icons?i=javascript" alt="JavaScript"/></a>
@@ -96,4 +98,6 @@
     <a width="30" height="30" href="https://www.adobe.com/products/illustrator.html" target="_blank"><img src="https://skills.syvixor.com/api/icons?i=adobeillustrator" alt="Illustrator"/></a>
     <a width="30" height="30" href="https://www.adobe.com/products/xd.html" target="_blank"><img src="https://skills.syvixor.com/api/icons?i=adobexd" alt="XD"/></a>
   </p>
+
+  <h4><i>AI will beat me at these within 5 years anyway.</i></h4>
 </div>
