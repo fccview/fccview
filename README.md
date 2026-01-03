@@ -1,11 +1,13 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
-   <br />
   <br />
+  <br />
+  
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=VT323&size=28&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=There+is+no+spoon.;I'll+be+back.;The+truth+is+out+there.;May+the+Force+be+with+you.;Life,+uh,+finds+a+way.;I'm+sorry,+Dave.+I+can't+do+that.;Hasta+la+vista,+baby.;Do+or+do+not.+There+is+no+try.;Live+long+and+prosper.;You+shall+not+pass!;My+precious.;Game+over,+man!+Game+over!;Resistance+is+futile.;I+know+kung+fu.;It's+a+trap!;Winter+is+coming.;The+spice+must+flow.;Follow+the+white+rabbit." alt="Some nice quotes for you" />
   </a>
-<br />
+  
+  <br />
   <br/>
 
   <p align="center">
@@ -22,17 +24,31 @@
       <img src="https://skills.syvixor.com/api/icons?i=linkedin" alt="LinkedIn" />
     </a>
     <a href="https://www.ffklabs.digital/" target="_blank">
-      <img width="48" height="48" style="border-radius: 10px" src="https://avatars.githubusercontent.com/u/112867047?v=4" alt="Website" />
+      <img width="48" height="48" style="border-radius: 10px" src="https://fccview.dev/logo512.png" alt="Website" />
     </a>
   </p>
 
-### Nice things I built and maintain
+  <h3>Nice things I built and maintain</h3>
 
-| Project | Description |
-| :--- | :--- |
-| **[cronmaster](https://github.com/fccview/cronmaster)** | A UI for cronjobs because I didn't want to learn cron syntax. I now know it so well I don't need it anymore. Fun. |
-| **[jotty](https://github.com/fccview/jotty)** | Lightweight but powerful, file-based checklists and note taking app. There weren't enough out there so I made my own. | 
-| **[scatola-magica](https://github.com/fccview/scatola-magica)** | Self-hosted file management that feels like magic. It really does, try it! |
+  <table>
+    <tbody>
+      <tr>
+        <td><img src="https://github.com/fccview/jotty/raw/main/public/app-icons/logos/logo.svg" width="40"></td>
+        <td width="200"><a href="https://github.com/fccview/jotty"><strong>jotty·page</strong></a></td>
+        <td>Lightweight but powerful, file-based checklists and note taking app. There weren't enough out there so I made my own.</td>
+      </tr>
+      <tr>
+        <td><img src="https://github.com/fccview/cronmaster/blob/main/public/logo.png" width="40"></td>
+        <td width="200"><a href="https://github.com/fccview/cronmaster"><strong>cronmaster</strong></a></td>
+        <td>A UI for cronjobs because I didn't want to learn cron syntax. I now know it so well I don't need it anymore. Fun.</td>
+      </tr>
+      <tr>
+        <td><img src="https://github.com/fccview/scatola-magica/raw/main/public/logo.svg" width="40"></td>
+        <td width="200"><a href="https://github.com/fccview/scatola-magica"><strong>scatola-magica</strong></a></td>
+        <td>Self-hosted file management that feels like magic. It really does, try it!</td>
+      </tr>
+    </tbody>
+  </table>
 
   <h3>AI will beat me at these within 5 years.</h3>
   
@@ -75,5 +91,4 @@
     <a width="30" height="30" href="https://www.adobe.com/products/illustrator.html" target="_blank"><img src="https://skills.syvixor.com/api/icons?i=adobeillustrator" alt="Illustrator"/></a>
     <a width="30" height="30" href="https://www.adobe.com/products/xd.html" target="_blank"><img src="https://skills.syvixor.com/api/icons?i=adobexd" alt="XD"/></a>
   </p>
-
 </div>
