@@ -3,7 +3,7 @@
    <br />
   <br />
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=There+is+no+spoon.;I'll+be+back.;The+truth+is+out+there.;May+the+Force+be+with+you.;Life,+uh,+finds+a+way.;I'm+sorry,+Dave.+I+can't+do+that.;Hasta+la+vista,+baby.;Do+or+do+not.+There+is+no+try.;Live+long+and+prosper.;You+shall+not+pass!;My+precious.;Game+over,+man!+Game+over!;Resistance+is+futile.;I+know+kung+fu.;It's+a+trap!;Winter+is+coming.;The+spice+must+flow.;Follow+the+white+rabbit." alt="Some nice quotes for you" />
+    <img src="https://readme-typing-svg.demolab.com?font=VT323&size=28&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=There+is+no+spoon.;I'll+be+back.;The+truth+is+out+there.;May+the+Force+be+with+you.;Life,+uh,+finds+a+way.;I'm+sorry,+Dave.+I+can't+do+that.;Hasta+la+vista,+baby.;Do+or+do+not.+There+is+no+try.;Live+long+and+prosper.;You+shall+not+pass!;My+precious.;Game+over,+man!+Game+over!;Resistance+is+futile.;I+know+kung+fu.;It's+a+trap!;Winter+is+coming.;The+spice+must+flow.;Follow+the+white+rabbit." alt="Some nice quotes for you" />
   </a>
 <br />
   <br/>
