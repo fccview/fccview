@@ -14,7 +14,7 @@
     <b>FE Tech Lead</b> • <b>Open Source Lover</b> • <b>Self-Hosted Enthusiast</b>
     <br/>
     <br />
-    I spend my free time building free software, playing with my kids, reading manga and obsessively catalogguing all my media I collected throughoug the years.
+    I spend my free time building free software, playing with my kids, reading manga and obsessively catalogguing all my media I collected throughout the years.
     <br/><br/>
     Currently very into selfhosting.
   </p>
