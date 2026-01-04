@@ -33,22 +33,22 @@
   <table>
     <tbody>
       <tr>
-        <td><img src="https://github.com/fccview/jotty/raw/main/public/app-icons/logos/logo.svg" width="40"></td>
+        <td width="60"><img src="https://github.com/fccview/jotty/raw/main/public/app-icons/logos/logo.svg" width="40"></td>
         <td width="200"><a href="https://github.com/fccview/jotty"><strong>jotty·page</strong></a></td>
         <td>Lightweight but powerful, file-based checklists and note taking app. There weren't enough out there so I made my own.</td>
       </tr>
       <tr>
-        <td><img src="https://github.com/fccview/cronmaster/blob/main/public/logo.png" width="40"></td>
+        <td width="60"><img src="https://github.com/fccview/cronmaster/blob/main/public/logo.png" width="40"></td>
         <td width="200"><a href="https://github.com/fccview/cronmaster"><strong>cronmaster</strong></a></td>
         <td>A UI for cronjobs because I didn't want to learn cron syntax. I now know it so well I don't need it anymore. Fun.</td>
       </tr>
       <tr>
-        <td><img src="https://github.com/fccview/scatola-magica/raw/main/public/logo.svg" width="40"></td>
+        <td width="60"><img src="https://github.com/fccview/scatola-magica/raw/main/public/logo.svg" width="40"></td>
         <td width="200"><a href="https://github.com/fccview/scatola-magica"><strong>scatola-magica</strong></a></td>
         <td>Self-hosted file management that feels like magic. It really does, try it!</td>
       </tr>
       <tr>
-        <td><img src="https://animetaverse.club/images/logo.jpeg" width="40"></td>
+        <td width="60"><img src="https://animetaverse.club/images/logo.jpeg" width="40"></td>
         <td width="200"><a href="https://github.com/riofriz/es-theme-animetaverse"><strong>es-theme-animetaverse</strong></a></td>
         <td>I built an arcade machine, I put batocera on it, I HAD to make my own theme and share it with the community!</td>
       </tr>
