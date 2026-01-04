@@ -35,7 +35,7 @@
       <tr>
         <td width="60"><img src="https://github.com/fccview/jotty/raw/main/public/app-icons/logos/logo.svg" width="40"></td>
         <td width="150"><a href="https://github.com/fccview/jotty"><strong>jotty·page</strong></a></td>
-        <td width="550">Lightweight but powerful, file-based checklists and note taking app. There weren't enough out there so I made my own.</td>
+        <td>Lightweight but powerful, file-based checklists and note taking app. There weren't enough out there so I made my own.</td>
       </tr>
       <tr>
         <td><img src="https://github.com/fccview/cronmaster/blob/main/public/logo.png" width="40"></td>
