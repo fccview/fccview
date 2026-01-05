@@ -23,7 +23,7 @@
     <a href="https://www.linkedin.com/in/fernando-campione-472b0691" target="_blank">
       <img src="https://skills.syvixor.com/api/icons?i=linkedin" alt="LinkedIn" />
     </a>
-    <a href="https://www.ffklabs.digital/" target="_blank">
+    <a href="https://fccview.dev/" target="_blank">
       <img width="48" height="48" style="border-radius: 10px" src="https://fccview.dev/logo512.png" alt="Website" />
     </a>
   </p>
