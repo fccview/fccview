@@ -48,6 +48,11 @@
         <td>Self-hosted file management that feels like magic. It really does, try it!</td>
       </tr>
       <tr>
+        <td><img src="[https://animetaverse.club/images/logo.jpeg](https://raw.githubusercontent.com/fccview/the-web-is-mine/main/static/icon.png)" width="40"></td>
+        <td><a href="https://github.com/fccview/the-web-is-mine"><strong>the web is mine</strong></a></td>
+        <td>Absolutely nonsensical tool that randomly generates url out of a dictionary, check if they exists and stores them in a database.</td>
+      </tr>
+      <tr>
         <td><img src="https://animetaverse.club/images/logo.jpeg" width="40"></td>
         <td><a href="https://github.com/riofriz/es-theme-animetaverse"><strong>es-theme-animetaverse</strong></a></td>
         <td>I built an arcade machine, I put batocera on it, I HAD to make my own theme and share it with the community!</td>
