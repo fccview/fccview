@@ -43,6 +43,11 @@
         <td>A UI for cronjobs because I didn't want to learn cron syntax. I now know it so well I don't need it anymore. Fun.</td>
       </tr>
       <tr>
+        <td><img src="https://github.com/fccview/degoog/raw/main/src/public/images/degoog-logo.png" width="40"></td>
+        <td><a href="https://github.com/fccview/scatola-magica"><strong>degoog</strong></a></td>
+        <td>Fully customisable search aggregrator with a plug and play plugin/engines system.</td>
+      </tr>
+      <tr>
         <td><img src="https://github.com/fccview/scatola-magica/raw/main/public/logo.svg" width="40"></td>
         <td><a href="https://github.com/fccview/scatola-magica"><strong>scatola-magica</strong></a></td>
         <td>Self-hosted file management that feels like magic. It really does, try it!</td>
