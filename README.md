@@ -44,7 +44,7 @@
       </tr>
       <tr>
         <td><img src="https://github.com/fccview/degoog/raw/main/src/public/images/degoog-logo.png" width="40"></td>
-        <td><a href="https://github.com/fccview/scatola-magica"><strong>degoog</strong></a></td>
+        <td><a href="https://github.com/fccview/degoog"><strong>degoog</strong></a></td>
         <td>Fully customisable search aggregrator with a plug and play plugin/engines system.</td>
       </tr>
       <tr>
